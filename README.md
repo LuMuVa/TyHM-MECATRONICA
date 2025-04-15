@@ -14,4 +14,20 @@ Mecatronica 2025
 * GRupo Programacion Whisper
 * Grupo Publicaciones (alguien encargado de que a cada grupo le pida el compilado de lo que hacen oara uego eso ponerlo en ele informe en latex)
 * Grupo Autorizaciones (pra peidr permiso para poner el whisper en el techo de la facu)
-* Grupo Experimentacion de Campo 
+* Grupo Experimentacion de Campo
+## Grupos antenas 
+### Grupo 1
+* Barrios Retta, Federico
+* Cano, Francisco
+* Papetti, Mario
+* Aleo, Rodrigo
+### Grupo 2
+* Roldan, Juan Cruz
+* Barraquero, Ignacio
+* Campo, Camila
+* Patricelli, Nicolas
+### Grupo 3 
+* Zamora, Braulio
+* Welch, Patricio
+* Prato, Yago
+* Paredes, Juan Cruz 
