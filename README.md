@@ -30,4 +30,29 @@ Mecatronica 2025
 * Zamora, Braulio
 * Welch, Patricio
 * Prato, Yago
-* Paredes, Juan Cruz 
+* Paredes, Juan Cruz
+### Grupo 4
+* Peña, Lautaro
+* Baldasso, David
+* Benitez, Emanuel
+* Ribeiro Blanco, Celia
+### Grupo 5
+* Nuñez, Brian
+* Quiroga, Juan Ignacio
+* Castel, Francisco
+* Sorrentino, Nicolas
+### Grupo 6
+* Ribeiro, Ignacio
+* Prado, Florencia
+* Riou, Gwendal
+* Muñiz, Lucia
+### Grupo 7 
+* Fattiboni, Alvaro
+* Albanez, Luciano
+* Garcia, Bautista
+* Ferri, Cristian
+* Martinez, Facundo
+### Grupo 8
+* Martinez, Melany
+* Guitard, Paul
+* Taban, Aleksander
