@@ -16,43 +16,43 @@ Mecatronica 2025
 * Grupo Autorizaciones (pra peidr permiso para poner el whisper en el techo de la facu)
 * Grupo Experimentacion de Campo
 ## Grupos antenas 
-### Grupo 1
+### Grupo 1: GRV5
 * Barrios Retta, Federico
 * Cano, Francisco
 * Papetti, Mario
 * Aleo, Rodrigo
-### Grupo 2
+### Grupo 2: Yagi
 * Roldan, Juan Cruz
 * Barraquero, Ignacio
 * Campo, Camila
 * Patricelli, Nicolas
-### Grupo 3 
+### Grupo 3: Marconi 1/4 Lambda
 * Zamora, Braulio
 * Welch, Patricio
 * Prato, Yago
 * Paredes, Juan Cruz
-### Grupo 4
+### Grupo 4: Paraguas
 * Peña, Lautaro
 * Baldasso, David
 * Benitez, Emanuel
 * Ribeiro Blanco, Celia
-### Grupo 5
+### Grupo 5: Zepelli
 * Nuñez, Brian
 * Quiroga, Juan Ignacio
 * Castel, Francisco
 * Sorrentino, Nicolas
-### Grupo 6
+### Grupo 6: Bazooka
 * Ribeiro, Ignacio
 * Prado, Florencia
 * Riou, Gwendal
 * Muñiz, Lucia
-### Grupo 7 
+### Grupo 7: Moxon
 * Fattiboni, Alvaro
 * Albanez, Luciano
 * Garcia, Bautista
 * Ferri, Cristian
 * Martinez, Facundo
-### Grupo 8
+### Grupo 8: V Invertida
 * Martinez, Melany
 * Guitard, Paul
 * Taban, Aleksander
