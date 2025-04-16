@@ -3,7 +3,7 @@ Mecatronica 2025
 
 ## Responsables de grupos 
 
-* SDR-Radio Mario Papetti <Link al github del grupo> (correo del mario)
+* SDR-Radio Mario Papetti <Link al github del grupo> (mp.robots@gmail.com)
 * Recicladores (a ellos les pido lo que vayan necesitando los otros grupos)
 * Grupo Antenas
 * Grupo SI5351 (plaquita)
