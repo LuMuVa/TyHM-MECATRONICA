@@ -16,7 +16,7 @@ Mecatronica 2025
 * Grupo Autorizaciones (pra peidr permiso para poner el whisper en el techo de la facu)
 * Grupo Experimentacion de Campo
 ## Grupos antenas 
-### Grupo 1: GRV5
+### Grupo 1: G5RV
 * Barrios Retta, Federico
 * Cano, Francisco
 * Papetti, Mario
