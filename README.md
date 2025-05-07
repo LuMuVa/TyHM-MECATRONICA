@@ -56,3 +56,13 @@ Mecatronica 2025
 * Martinez, Melany
 * Guitard, Paul
 * Taban, Aleksander
+
+
+<hr>
+** Tips para la construcción de la antena Marnetic Loop
+
+<https://youtu.be/JEaXVFwZuds?si=Wlv_UgfNgdJm3lwi>
+<https://youtu.be/qIAXcUlxvNY?si=BX3ldakDEFQS6M6y>
+<https://youtu.be/I3JkOxrT9QY?si=TUSK6zrC-gNQNK40>
+<hr>
+
