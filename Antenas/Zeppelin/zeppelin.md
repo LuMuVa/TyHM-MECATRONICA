@@ -1,4 +1,4 @@
-<div style="text-align: center; margin-top: 10em;">
+<p align="center">
 
 # Técnicas y Herramientas Modernas
 
@@ -7,7 +7,11 @@ _Carrera de Ingeniería en Mecatrónica_
 **Profesor Titular Responsable de Cátedra**  
 Ricardo Palma
 
+---
+
 ## Diseño y construcción de una antena Zeppelin para recepción en 27,460 MHz
+
+---
 
 **Integrantes del grupo**  
 Castel Francisco  
@@ -17,14 +21,7 @@ Sorrentino Nicolás
 
 _Mendoza, Mayo 2025_
 
-</div>
-
-
-
-
-
-
-
+</p>
 
 # Introducción
 
