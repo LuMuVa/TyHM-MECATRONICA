@@ -52,3 +52,6 @@ Los factores que pueden estar implicados en esta variación podrian ser:
 antena no está construida con precisión, o si el material del coaxial tiene características dieléctricas que afectan la velocidad de propagación, la frecuencia de resonancia podría cambiar.
 
 Por lo tanto, la discrepancia entre la frecuencia calculada de 27 MHz y la frecuencia real de 22.3 MHz podría ser resultado de una combinación de los factores mencionados anteriormente. Para ajustar la antena a la frecuencia deseada, sería necesario modificar la longitud de los elementos o considerar ajustes en la construcción, como la inclusión de ajustes en la longitud de los elementos coaxiales o la modificación de su configuración.
+![image](https://github.com/user-attachments/assets/918d7739-1520-42f8-b7cc-6c553990d71b)
+![image](https://github.com/user-attachments/assets/dd204f8f-594c-4c12-b938-5f8776e427d3)
+
