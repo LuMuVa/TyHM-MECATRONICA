@@ -1,5 +1,6 @@
 # TyHM-MECATRONICA
 Mecatronica 2025 
+Scrum:  https://docs.google.com/spreadsheets/d/1Hq_EJ_ELW0BJ7wBh72wsRF5qxRH0QI1ZsnXJV5CjN-o/edit?gid=0#gid=0&fvid=2103954755
 
 ## Responsables de grupos 
 
