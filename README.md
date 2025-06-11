@@ -16,43 +16,43 @@ Mecatronica 2025
 * Grupo Autorizaciones (pra peidr permiso para poner el whisper en el techo de la facu)
 * Grupo Experimentacion de Campo
 ## Grupos antenas 
-### Grupo 1: G5RV
+### Grupo 1: G5RV (No entregado en cambio entregado el transmisor)
 * Barrios Retta, Federico
 * Cano, Francisco
 * Papetti, Mario
 * Aleo, Rodrigo
-### Grupo 2: Yagi
+### Grupo 2: Yagi (Cambiada por magnetic loop entregado)
 * Roldan, Juan Cruz
 * Barraquero, Ignacio
 * Campo, Camila
 * Patricelli, Nicolas
-### Grupo 3: Marconi 1/4 Lambda
+### Grupo 3: Marconi 1/4 Lambda (No entregado en cambio entregado el sintonizador)
 * Zamora, Braulio
 * Welch, Patricio
 * Prato, Yago
 * Paredes, Juan Cruz
-### Grupo 4: Paraguas
+### Grupo 4: Paraguas (No entregado)
 * Peña, Lautaro
 * Baldasso, David
 * Benitez, Emanuel
-* Ribeiro Blanco, Celia
-### Grupo 5: Zepelli
+### Grupo 5: Zepelli (Entrega parcial falta cambio de frecuencia)
 * Nuñez, Brian
 * Quiroga, Juan Ignacio
 * Castel, Francisco
 * Sorrentino, Nicolas
-### Grupo 6: Bazooka
+### Grupo 6: Bazooka (Entregado total)
 * Ribeiro, Ignacio
 * Prado, Florencia
 * Riou, Gwendal
 * Muñiz, Lucia
-### Grupo 7: Moxon
+* Ribeiro Blanco, Celia
+### Grupo 7: Moxon (Entregado)
 * Fattiboni, Alvaro
 * Albanez, Luciano
 * Garcia, Bautista
 * Ferri, Cristian
 * Martinez, Facundo
-### Grupo 8: V Invertida
+### Grupo 8: V Invertida (Entregado)
 * Martinez, Melany
 * Guitard, Paul
 * Taban, Aleksander
